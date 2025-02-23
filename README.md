@@ -3,6 +3,13 @@
 ## Introduction
 The **Credit Card Financial Dashboard** is a comprehensive data analysis project designed to provide actionable insights into credit card transactions and customer behavior. Developed using Power BI and PostgreSQL, this dashboard offers a user-friendly interface for monitoring key metrics such as revenue, transaction volumes, customer demographics, and expenditure trends.
 
+![image](https://github.com/user-attachments/assets/25912511-3c14-404a-9057-06ad2b22417e)
+
+
+
+![image](https://github.com/user-attachments/assets/1d38b153-1501-4912-b52d-d59872d024db)
+
+
 ## Methodology
 1. Extracted transaction data from a database using PostgreSQL queries to ensure real-time data synchronization.
 2. Processed and analyzed the data to identify patterns and trends.
